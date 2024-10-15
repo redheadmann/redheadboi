@@ -5,7 +5,7 @@
 
 -->
 
-- 🔭 I’m working on surviving college.
+- 🔭 I’m surviving college.
 
 - 🌱 I’m currently learning applied Mathematics at BYU. It's a lot of Python. Very cool.
 
