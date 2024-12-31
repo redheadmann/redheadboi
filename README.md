@@ -5,10 +5,8 @@
 
 -->
 
-- 🔭 I’m surviving college.
+- 🔭 I’m graduating college in Summer of 2025.
 
 - 🌱 I’m currently learning applied Mathematics at BYU. It's a lot of Python. Very cool.
 
 - 📫 How to reach me: You can email me at hkf22@byu.edu
-
-- ⚡ Fun fact: I speak German, Ukrainian, AND English! Having lived in Europe though, that's not too impressive. I'm working on Russian, though!
