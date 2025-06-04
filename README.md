@@ -5,8 +5,4 @@
 
 -->
 
-- 🔭 I’m graduating college in Summer of 2025.
 
-- 🌱 I’m currently learning applied Mathematics at BYU. It's a lot of Python.
-
-- 📫 How to reach me: You can email me at hkf22@byu.edu
